@@ -1,4 +1,5 @@
 // you should use this with html and css
+
 let object = document.querySelector("#name");
 
 function base(){
